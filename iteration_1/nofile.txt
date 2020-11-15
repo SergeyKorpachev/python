@@ -1,0 +1,25 @@
+total 2392
+drwxr-xr-x  24 root1  staff     768 Aug 17 10:47 .
+drwx------@ 16 root1  staff     512 Aug 17 01:32 ..
+-rw-r--r--@  1 root1  staff    6148 Aug 12 06:02 .DS_Store
+drwxr-xr-x   4 root1  staff     128 Aug 12 06:03 .ipynb_checkpoints
+-rw-r--r--@  1 root1  staff   35182 Jul 29 22:22 Jack-Nicholson-in-The-Shining-2043016.jpg
+drwxr-xr-x   5 root1  staff     160 Aug 17 02:21 __pycache__
+-rw-r--r--@  1 root1  staff     378 Aug 17 10:45 file.txt
+-rw-r--r--@  1 root1  staff    6777 Jul 31 18:10 hw_python.ipynb
+-rw-r--r--@  1 root1  staff   76267 Jul 31 00:22 mememe_cb8e239ef97eb73a7d04ecf46ed4bf5c-1.jpg
+-rw-r--r--   1 root1  staff     116 Aug 16 14:42 mymodule.py
+-rw-r--r--   1 root1  staff      67 Aug 16 14:45 mymodule2.py
+-rw-r--r--   1 root1  staff     114 Aug 16 14:46 mymodule3.py
+-rw-r--r--   1 root1  staff       0 Aug 17 10:47 nofile.txt
+-rw-r--r--@  1 root1  staff  623360 Jul 29 22:22 nva5b9dq8r631.png
+-rw-r--r--   1 root1  staff    6854 Aug  1 02:13 optimisation.ipynb
+-rw-r--r--@  1 root1  staff    3648 Aug 17 09:09 python-conditional-image-exercise-4.png
+-rw-r--r--@  1 root1  staff   83932 Aug  2 03:23 python1.ipynb-comment.html
+-rw-r--r--@  1 root1  staff  125200 Aug 17 10:46 python1_v1.ipynb
+-rw-r--r--@  1 root1  staff   76156 Jul 31 11:33 python2.ipynb-comment.html
+-rw-r--r--@  1 root1  staff   77408 Aug 16 22:38 python2_v1.ipynb
+drwxr-xr-x@  7 root1  staff     224 Aug 16 10:40 python_old
+-rw-r--r--   1 root1  staff      56 Aug 17 10:45 test.txt
+-rw-r--r--@  1 root1  staff      80 Aug 17 10:42 text.txt
+-rw-r--r--@  1 root1  staff   60302 Mar  4 09:07 train.csv
