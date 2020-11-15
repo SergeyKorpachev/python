@@ -1,0 +1,11 @@
+total 896
+drwxr-xr-x  10 root1  staff     320 Sep  4 06:30 .
+drwxr-xr-x   5 root1  staff     160 Sep  4 01:14 ..
+drwxr-xr-x   6 root1  staff     192 Sep  4 05:39 .ipynb_checkpoints
+drwxr-xr-x   6 root1  staff     192 Sep  4 01:28 codes
+drwxr-xr-x   9 root1  staff     288 Sep  4 06:30 data
+drwxr-xr-x   7 root1  staff     224 Sep  3 16:14 images
+-rw-r--r--   1 root1  staff  114863 Sep  4 06:24 python1_1_v2.ipynb
+-rw-r--r--   1 root1  staff   64221 Sep  4 06:30 python1_2_v2.ipynb
+-rw-r--r--   1 root1  staff  136930 Sep  4 05:29 python1_full_v2.ipynb
+-rw-r--r--   1 root1  staff  133217 Sep  4 01:49 python2_full_v2.ipynb
