@@ -1,0 +1,16 @@
+total 41912
+drwxr-xr-x  15 root1  staff       480 Aug  1 23:11 .
+drwx------@ 14 root1  staff       448 Aug  1 21:15 ..
+drwxr-xr-x   4 root1  staff       128 Jul 31 19:31 .ipynb_checkpoints
+-rw-r--r--@  1 root1  staff     35182 Jul 29 22:22 Jack-Nicholson-in-The-Shining-2043016.jpg
+-rw-r--r--@  1 root1  staff  15164516 Jul 22 22:03 df014_CsvDataSource_MuRun2010B.csv
+-rw-r--r--@  1 root1  staff       101 Aug  1 12:11 file.txt
+-rw-r--r--@  1 root1  staff      6777 Jul 31 18:10 hw_python.ipynb
+-rw-r--r--@  1 root1  staff     76267 Jul 31 00:22 mememe_cb8e239ef97eb73a7d04ecf46ed4bf5c-1.jpg
+-rw-r--r--   1 root1  staff         0 Aug  1 23:11 nofile.txt
+-rw-r--r--@  1 root1  staff    623360 Jul 29 22:22 nva5b9dq8r631.png
+-rw-r--r--   1 root1  staff      6854 Aug  1 02:13 optimisation.ipynb
+-rw-r--r--@  1 root1  staff    138064 Aug  1 23:10 python1.ipynb
+-rw-r--r--@  1 root1  staff   5322327 Jul 31 21:33 python2.ipynb
+-rw-r--r--@  1 root1  staff        80 Aug  1 12:10 text.txt
+-rw-r--r--@  1 root1  staff     60302 Mar  4 09:07 train.csv
